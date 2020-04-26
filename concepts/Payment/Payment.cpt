@@ -1,0 +1,11 @@
+Created by FTH on 26.04.2020
+
+This is a concept file with following syntax for each concept.
+# Payment ExpectedTotalCharge: <total>,CardHolderName: <cardHolderName>,CardNumber: <cardNumber>,CardExpMonth: <cardExpMonth>,CardExpYear: <cardExpYear>,cardCvc: <cardCvc>
+* Total Charge Check Expected: <total>
+* Card Holder Name <cardHolderName>
+* Card Number <cardNumber>
+* Card Exp Month <cardExpMonth>
+* Card Exp Year <cardExpYear>
+* Card Cvc <cardCvc>
+* Submit Payment

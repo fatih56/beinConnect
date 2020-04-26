@@ -1,0 +1,10 @@
+Created by silash on 11.12.2018
+
+This is a concept file with following syntax for each concept.
+# Create Account FirstName: <firstName>,LastName: <lastName>,EmailOrPhone: <EmailOrPhone>,Password: <password>,CommunicationPermission: <permission>
+*First Name <firstName>
+*Last Name <lastName>
+*Email Or Phone <EmailOrPhone>
+*Password <password>
+*Communication Permission <permission>
+*Create Account Submit Click

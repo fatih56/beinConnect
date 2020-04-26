@@ -1,0 +1,7 @@
+Created by FTH on 26.04.2020
+
+This is a concept file with following syntax for each concept.
+# Payment Method PaymentType: <payment>
+* Payment Type <payment>
+* Term check
+* Submit PaymentMethod
